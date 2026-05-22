@@ -2,6 +2,8 @@
 
 An industrial-grade computer vision and metrology pipeline designed to automatically measure hardware dimensions and detect surface anomalies in real-time. 
 
+![Project Demo](media/capstone.gif)
+
 ## 🚀 Key Features
 
 * **Dynamic Spatial Calibration:** Utilizes **ArUco Markers (DICT_4X4_50)** to continuously calculate pixel-to-millimeter ratios, ensuring accurate measurements regardless of camera distance.
