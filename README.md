@@ -2,7 +2,7 @@
 
 An industrial-grade computer vision and metrology pipeline designed to automatically measure hardware dimensions and detect surface anomalies in real-time. 
 
-![Project Demo](media/capstone.gif)
+![Project Demo](Media/capstone.gif)
 
 ## 🚀 Key Features
 
